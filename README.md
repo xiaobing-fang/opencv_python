@@ -1,0 +1,2 @@
+# opencv_python
+个人在使用opencv过程中的一些things
